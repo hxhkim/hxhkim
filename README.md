@@ -29,10 +29,11 @@ Here are some ideas to get you started:
 
 
 ### Tools & Flatform
-<a href="-" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=FFFFFF"/></a>
-<a href="-" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF"/></a>
+<a href="-" target="_blank"><img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=FFFFFF"/></a>
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-D00000?style=flat-square&logo=keras&logoColor=FFFFFF"/></a>
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/Keras-FF6F00?style=flat-square&logo=tensorflow&logoColor=FFFFFF"/></a>
+<a href="-" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=FFFFFF"/></a>
+<a href="-" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF"/></a>
 
 
 
