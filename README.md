@@ -4,7 +4,7 @@ Hi there 👋 I'm Hahyun KIM.
 
 
 
-<a href="hahyun.h.kim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=000000"/></a>
+<a href="hahyun.h.kim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hahyun.h.kim@gmail.com-EA4335?style=flat&logo=gmail&logoColor=FFFFFF"/></a>
 
 <!--
 **hxhkim/hxhkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
