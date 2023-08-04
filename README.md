@@ -4,7 +4,7 @@ Hi there 👋 I'm Hahyun KIM.
 
 
 
-<a href="hahyun.h.kim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hahyun.h.kim@gmail.com-EA4335?style=flat&logo=gmail&logoColor=FFFFFF"/></a>
+<a href="hahyun.h.kim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hahyun.h.kim@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF"/></a>
 
 <!--
 **hxhkim/hxhkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## WHAT I CAN DO
 
 ### Languages
-<a href="-" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF"/></a>
+<a href="-" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF"/></a>
 
 
 ### Tools
