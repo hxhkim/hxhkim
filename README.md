@@ -28,8 +28,16 @@ Here are some ideas to get you started:
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFFFFF"/></a>
 
 
-### Tools
+### Tools & Flatform
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=FFFFFF"/></a>
+
+<a href="-" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF"/></a>
+
+<a href="-" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-D00000?style=flat-square&logo=keras&logoColor=FFFFFF"/></a>
+
+<a href="-" target="_blank"><img src="https://img.shields.io/badge/Keras-FF6F00?style=flat-square&logo=tensorflow&logoColor=FFFFFF"/></a>
+
+
 
 
 
