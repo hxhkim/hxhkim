@@ -3,7 +3,7 @@
 Hi there 👋 I'm Hahyun KIM.
 
 
-
+### CONTACT
 <a href="hahyun.h.kim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hahyun.h.kim@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF"/></a>
 <a href="https://github.com/hxhkim" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF"/></a>
 
