@@ -5,6 +5,7 @@ Hi there 👋 I'm Hahyun KIM.
 
 
 <a href="hahyun.h.kim@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hahyun.h.kim@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF"/></a>
+<a href="https://github.com/hxhkim" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF"/></a>
 
 <!--
 **hxhkim/hxhkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +30,7 @@ Here are some ideas to get you started:
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=FFFFFF"/></a>
 
 ### ABOUT ME
-<a href="-" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=FFFFFF"/></a>
+
 
 
 
