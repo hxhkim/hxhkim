@@ -29,8 +29,6 @@ Here are some ideas to get you started:
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/Keras-FF6F00?style=flat-square&logo=tensorflow&logoColor=FFFFFF"/></a>
 <a href="-" target="_blank"><img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=FFFFFF"/></a>
 
-### ABOUT ME
-
 
 
 
