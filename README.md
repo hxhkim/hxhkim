@@ -1,4 +1,4 @@
-## WHO I AM
+# WHO I AM
 
 Hi there 👋 I'm Hahyun KIM.
 
