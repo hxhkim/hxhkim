@@ -1,4 +1,4 @@
-### aboutme.json
+### ABOUTME.json
 ```
 {
   "info": {
