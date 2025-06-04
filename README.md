@@ -16,8 +16,8 @@
   "tech": {
     "Data": ["python", "sql", "airflow", "hadoop", "spark"],
     "ML": ["scikit-learn", "tensorflow"],
-    "Web": ["spring", "fast-api", "html", "css", "javascript"],
-    "infra": ["aws", "linux", "docker"]
+    "Web": ["streamlit", "fast-api", "html", "css", "javascript"],
+    "infra": ["GCP", "aws", "linux", "docker"]
     "
 }
 ```
